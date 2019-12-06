@@ -1,2 +1,2 @@
 # wpperms
-Set restrictive permissions on WordPress install
+Quickly and easily lock down the permissions on a basic WordPress install.
